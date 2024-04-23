@@ -1,7 +1,6 @@
 ### Welcome 👋
 
 ## 💻 Programming languages
-My experience:
 * HTML
 * CSS
 * Javascript
