@@ -1,5 +1,19 @@
-### Hi there 👋
+### Welcome 👋
 
+## 💻 Programming languages
+My experience:
+* HTML
+* CSS
+* Javascript
+* PHP
+* Node/Express
+* Java
+* C#
+* SQL
+
+## ⚙️ Tools
+* Photoshop
+* Visual Studio Code
 <!--
 **Mossati/Mossati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
