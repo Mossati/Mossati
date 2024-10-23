@@ -10,6 +10,10 @@
 * C#
 * SQL
 
+## 🛠️ Frameworks
+* SvelteKit
+* Astro
+
 ## ⚙️ Tools
 * Photoshop
 * Visual Studio Code
